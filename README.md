@@ -1,1 +1,1 @@
-# cmgt-portfolio
+# cmgt-herkansing-portfolio

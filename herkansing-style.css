@@ -127,7 +127,7 @@ width: 50%;
     padding: 10px;
     position:absolute;
     right: 20%;
-    bottom: -450%;
+    bottom: -570%;
     background-color: blue;
     border: 2px solid lightblue;
     border-radius: 15px;
@@ -223,6 +223,12 @@ width: 50%;
 }
 .CLE3{
     background-image: url("images/Scherm­afbeelding\ 2023-04-07\ om\ 16.16.44.png");
+}
+.CLE4{
+    background-image: url("images/IMG_1150.PNG");
+}
+.PRG4{
+    background-image: url("images/Scherm­afbeelding 2023-07-01 om 03.07.23.png");
 }
 .Portfolio{
     background-image: url("images/Scherm­afbeelding\ 2023-04-07\ om\ 16.22.06.png");
